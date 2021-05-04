@@ -20,10 +20,9 @@ function App() {
       <header className="App-header">
         <Lottie
           options={defaultOptions}
-          height={400}
-          width={400}
+          height={'50vmin'}
+          width={'50vmin'}
           isStopped={stop}
-          className={'App-logo'}
           isClickToPauseDisabled={true}
           ariaRole={''}
           eventListeners={[
@@ -33,7 +32,7 @@ function App() {
             },
           ]}
         />
-        <button onClick={() => setStop(false)}>Start</button>
+        <button onClick={() => setStop(false)} className='App-button' disabled={!stop}>Start</button>
       </header>
     </div>
   );
