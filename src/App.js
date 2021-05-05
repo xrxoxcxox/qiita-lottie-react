@@ -20,11 +20,11 @@ function App() {
       <header className="App-header">
         <Lottie
           options={defaultOptions}
-          height={'50vmin'}
-          width={'50vmin'}
+          height='50vmin'
+          width='50vmin'
           isStopped={stop}
           isClickToPauseDisabled={true}
-          ariaRole={''}
+          ariaRole=''
           eventListeners={[
             {
               eventName: 'complete',
