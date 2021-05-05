@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/qiita-lottie-react/static/css/main.af32ea9a.chunk.css",
-    "main.js": "/qiita-lottie-react/static/js/main.11fb623e.chunk.js",
-    "main.js.map": "/qiita-lottie-react/static/js/main.11fb623e.chunk.js.map",
+    "main.js": "/qiita-lottie-react/static/js/main.ef127092.chunk.js",
+    "main.js.map": "/qiita-lottie-react/static/js/main.ef127092.chunk.js.map",
     "runtime-main.js": "/qiita-lottie-react/static/js/runtime-main.bba7ab67.js",
     "runtime-main.js.map": "/qiita-lottie-react/static/js/runtime-main.bba7ab67.js.map",
     "static/js/2.e73581e2.chunk.js": "/qiita-lottie-react/static/js/2.e73581e2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bba7ab67.js",
     "static/js/2.e73581e2.chunk.js",
     "static/css/main.af32ea9a.chunk.css",
-    "static/js/main.11fb623e.chunk.js"
+    "static/js/main.ef127092.chunk.js"
   ]
 }
